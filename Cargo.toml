@@ -1,0 +1,10 @@
+[package]
+name = "assert_unique_features"
+version = "0.0.0"
+authors = ["cyphersnake <cyphersnake@pm.me>"]
+repository = "https://github.com/cyphersnake/assert_unique_features"
+description = "Auxiliary crate for check feature uniqueness"
+edition = "2021"
+license = "MIT"
+
+[dependencies]
